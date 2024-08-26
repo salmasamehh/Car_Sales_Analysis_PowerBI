@@ -1,4 +1,4 @@
-# Car Sales Analysis with PowerBI
+# Car Sales Analysis with Power BI
 This dashboard provides a comprehensive view of year-to-date (YTD) and month-to-date (MTD) car sales,
 prices, and trends. It visualizes key insights, helping stakeholders make data-driven decisions efficiently.
 
